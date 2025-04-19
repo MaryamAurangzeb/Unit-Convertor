@@ -29,14 +29,12 @@ cd unit-converter
 Install required packages:
 
 bash
-Copy
-Edit
+
 pip install streamlit
 Run the app:
 
 bash
-Copy
-Edit
+
 streamlit run app.py
 
 
